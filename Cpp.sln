@@ -5,6 +5,11 @@ VisualStudioVersion = 17.8.34601.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02_Search", "02_Search\02_Search.vcxproj", "{E55E92AE-FD04-476E-BBDC-30EC7AEFEAEE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B5DD3A43-18CE-408F-B197-B5EDEF4077C1}"
+	ProjectSection(SolutionItems) = preProject
+		02_Search\README.md = 02_Search\README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
