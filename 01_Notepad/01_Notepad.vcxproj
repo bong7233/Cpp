@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="01_Notepad.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SparseMatrix.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
